@@ -25,7 +25,6 @@ Hi there! I'm Anamika Aggarwal, a full-stack web developer currently pursuing a 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 ## 📊 GitHub Stats:
-![Anamika's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anamika1608&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anamika1608&layout=compact&theme=radical)
 
 ## 📫 Connect with me:
