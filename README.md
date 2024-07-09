@@ -1,10 +1,6 @@
 # 💫 About Me:
 Hi there! I'm Anamika Aggarwal, a full-stack web developer currently pursuing a BTech in CSE from MSIT (IPU). I have a passion for creating intuitive and dynamic user experiences. I'm always keen to learn and explore new technologies to enhance my skill set.
 
-- 🌐 Visit my portfolio at [AnamikaAggarwal.dev](http://AnamikaAggarwal.dev)
-- 📫 How to reach me: anamika@example.com
-- 📝 [Resume](http://AnamikaAggarwal.dev/resume.pdf)
-
 ## 🚀 Skills:
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -29,15 +25,9 @@ Hi there! I'm Anamika Aggarwal, a full-stack web developer currently pursuing a 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 ## 📊 GitHub Stats:
-![Anamika's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnamikaAggarwal&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnamikaAggarwal&layout=compact&theme=radical)
-
-## 🏆 GitHub Trophies:
-![trophy](https://github-profile-trophy.vercel.app/?username=AnamikaAggarwal&theme=onedark)
+![Anamika's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anamika1608&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anamika1608&layout=compact&theme=radical)
 
 ## 📫 Connect with me:
-[!https://www.linkedin.com/in/anamikaaggarwal12(https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anamika-aggarwal/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AnamikaAggarwal)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](http://AnamikaAggarwal.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anamikaaggarwal12/)
 
-![Profile views](https://gpvc.arturio.dev/AnamikaAggarwal)
