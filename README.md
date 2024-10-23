@@ -1,7 +1,3 @@
-Here's an updated and more visually appealing version of your README file with some creative flair while keeping the focus on your skills as a full-stack developer:
-
----
-
 # 🌟 Hi, I'm **Anamika Aggarwal**  
 **A Passionate Full-Stack Developer and Tech Enthusiast** 🚀  
 
@@ -12,22 +8,17 @@ I'm a full-stack web developer currently pursuing a BTech in Computer Science fr
 
 ## 🛠️ **Tech Stack**  
 
-### **Frontend**  
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,html,css,js,ts" />
 </div>
 
-### **Backend**  
 <div align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </div>
-
-### **Databases**  
 <div align="center">
   <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </div>
 
-### **Languages**  
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cpp,python" />
 </div>
@@ -48,15 +39,4 @@ I'm a full-stack web developer currently pursuing a BTech in Computer Science fr
   </a>
 </div>
 
----
 
-By simplifying the language representation with icons and centering key sections, the README now has a more innovative and polished look that reflects your expertise as a full-stack developer.
-  <a href="mailto:anamikaagg07@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</div>
-
----
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Anamika1608&style=flat-square&color=blue" alt="Profile Views" />
-</div>
