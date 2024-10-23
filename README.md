@@ -20,10 +20,10 @@ I'm a full-stack web developer currently pursuing a BTech in Computer Science fr
 </div>
 
 ## **Let's Connect!**  
-<div align="center">
-  <a href="mailto:anamikaagg07@gmail.com">
+<div align="">
+<!--   <a href="mailto:anamikaagg07@gmail.com">
     <img src="https://skillicons.dev/icons?i=mail" alt="Email" />
-  </a>
+  </a> -->
   <a href="https://www.linkedin.com/in/anamikaaggarwal12/">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
