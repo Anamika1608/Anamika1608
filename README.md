@@ -14,22 +14,19 @@ I'm a full-stack web developer currently pursuing a BTech in Computer Science fr
 
 
 ## **GitHub Stats**  
-<div align="center">
+<div align="between">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anamika1608&layout=compact&theme=radical" alt="Top Languages" />
-  <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anamika1608&theme=radical" alt="GitHub Streak" />
 </div>
 
 ## **Let's Connect!**  
 <div align="center">
-  <a href="https://www.linkedin.com/in/anamikaaggarwal12/">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-  </a>
-
   <a href="mailto:your.email@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-</div>
+  <a href="https://www.linkedin.com/in/anamikaaggarwal12/">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
 </div>
 
 
