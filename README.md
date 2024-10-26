@@ -2,7 +2,7 @@
 **A Passionate Full-Stack Developer and Tech Enthusiast** 🚀  
 
 ### **About Me**  
-I'm a full-stack web developer currently pursuing a BTech in Computer Science from MSIT (IPU). I thrive on building intuitive user experiences and scalable web applications. Constantly exploring new technologies, I aim to stay ahead in the rapidly evolving tech world. Let's code and create something amazing! 💡  
+I'm a full-stack web developer currently pursuing a BTech in Computer Science from MSIT (IPU). Constantly exploring new technologies, I aim to stay ahead in the rapidly evolving tech world. Let's code and create something amazing! 💡  
 
 ---
 
