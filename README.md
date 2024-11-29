@@ -16,7 +16,6 @@ I'm a full-stack web developer currently pursuing a BTech in Computer Science fr
 ## **GitHub Stats**  
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anamika1608&layout=compact&theme=radical" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anamika1608&theme=radical" alt="GitHub Streak" />
 </div>
 
 ## **Let's Connect!**  
