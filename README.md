@@ -8,7 +8,7 @@
 🚀 Always exploring **new technologies** and keeping up with the evolving tech world  
 ✨ Let's collaborate and create something amazing! 💡  
 📧 **Contact me** – anamikaagg07@gmail.com
----
+
 
 ## 🚀 **Tech Stack**  
 <div align="center">
