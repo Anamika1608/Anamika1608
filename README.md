@@ -7,7 +7,7 @@
 💻 Full-stack web developer passionate about **building impactful tech solutions**  
 🚀 Always exploring **new technologies** and keeping up with the evolving tech world  
 ✨ Let's collaborate and create something amazing! 💡  
-
+📧 **Contact me** – anamikaagg07@gmail.com
 ---
 
 ## 🚀 **Tech Stack**  
@@ -33,10 +33,9 @@
 
 ## 📬 **Let's Connect!**  
 <div align="">
-<!--   <a href="mailto:anamikaagg07@gmail.com">
-    <img src="https://skillicons.dev/icons?i=mail" alt="Email" />
-  </a> -->
   <a href="https://www.linkedin.com/in/anamikaaggarwal12/">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
 </div>
+
+
