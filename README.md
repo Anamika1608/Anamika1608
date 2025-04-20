@@ -7,7 +7,7 @@
 ✨ Let's collaborate and create something amazing! 💡  
 📧 **Contact me** – anamikaagg07@gmail.com
 
-<div align="center">
+<div align="center" style="transform: scale(1.5)">
   <img src="https://komarev.com/ghpvc/?username=Anamika1608&color=brightgreen&style=plastic&label=Profile-Views" alt="Profile Views" />
 </div>
 
