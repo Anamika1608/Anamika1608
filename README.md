@@ -5,11 +5,10 @@
 ✨ Let's collaborate and create something amazing! 💡  
 📧 **Contact me** – anamikaagg07@gmail.com
 
-<div align="center">
+<div align="">
   <img src="https://komarev.com/ghpvc/?username=Anamika1608&color=blue&style=for-the-badge" alt="Profile Views" />
 </div>  
 
-## 📊 **GitHub Stats**  
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anamika1608&layout=compact&theme=radical" alt="Top Languages" />
 </div>   
