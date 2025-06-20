@@ -1,7 +1,5 @@
 # 🌟 Hi, I'm **Anamika Aggarwal**  
-**A Passionate Full-Stack Developer and Tech Enthusiast** 🚀  
 
-## 📌 **About Me**  
 💻 Full-stack web developer passionate about **building impactful tech solutions**  
 🚀 Always exploring **new technologies** and keeping up with the evolving tech world  
 ✨ Let's collaborate and create something amazing! 💡  
@@ -10,11 +8,6 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Anamika1608&color=blue&style=for-the-badge" alt="Profile Views" />
 </div>  
-
-## 🚀 **Tech Stack**  
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,html,css,js,ts,nodejs,express,mysql,mongodb,cpp,python" />
-</div>
 
 ## 📊 **GitHub Stats**  
 <div align="center">
