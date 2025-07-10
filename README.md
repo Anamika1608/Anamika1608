@@ -9,8 +9,5 @@
   <img src="https://komarev.com/ghpvc/?username=Anamika1608&color=blue&style=for-the-badge" alt="Profile Views" />
 </div>  
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anamika1608&layout=compact&theme=radical" alt="Top Languages" />
-</div>   
 
 
