@@ -3,7 +3,7 @@
 💻 Full-stack developer passionate about **building impactful tech solutions**  
 🚀 Always exploring **new technologies** and keeping up with the evolving tech world  
 ✨ Let's collaborate and create something amazing! 💡  
-🔗 See my portfolio – [https://www.anamikaagg.com]
+🔗 See my portfolio – [anamikaagg.com]
 
 📧 **Contact me** – anamikaagg07@gmail.com
 
