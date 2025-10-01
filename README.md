@@ -1,6 +1,6 @@
 # 🌟 Hi, I'm **Anamika Aggarwal**  
 
-💻 Full-stack developer passionate about **building impactful tech solutions**  
+💻 Full-stack engineer passionate about **building impactful tech solutions**  
 🚀 Always exploring **new technologies** and keeping up with the evolving tech world  
 ✨ Let's collaborate and create something amazing! 💡  
 🔗 See my portfolio – [https://anamikaagg.com]
